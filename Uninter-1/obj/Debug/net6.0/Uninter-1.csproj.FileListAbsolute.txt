@@ -1,0 +1,14 @@
+E:\projetos\C#\Uninter-1\bin\Debug\net6.0\Uninter-1.exe
+E:\projetos\C#\Uninter-1\bin\Debug\net6.0\Uninter-1.deps.json
+E:\projetos\C#\Uninter-1\bin\Debug\net6.0\Uninter-1.runtimeconfig.json
+E:\projetos\C#\Uninter-1\bin\Debug\net6.0\Uninter-1.dll
+E:\projetos\C#\Uninter-1\bin\Debug\net6.0\Uninter-1.pdb
+E:\projetos\C#\Uninter-1\obj\Debug\net6.0\Uninter-1.GeneratedMSBuildEditorConfig.editorconfig
+E:\projetos\C#\Uninter-1\obj\Debug\net6.0\Uninter-1.AssemblyInfoInputs.cache
+E:\projetos\C#\Uninter-1\obj\Debug\net6.0\Uninter-1.AssemblyInfo.cs
+E:\projetos\C#\Uninter-1\obj\Debug\net6.0\Uninter-1.csproj.CoreCompileInputs.cache
+E:\projetos\C#\Uninter-1\obj\Debug\net6.0\Uninter-1.dll
+E:\projetos\C#\Uninter-1\obj\Debug\net6.0\refint\Uninter-1.dll
+E:\projetos\C#\Uninter-1\obj\Debug\net6.0\Uninter-1.pdb
+E:\projetos\C#\Uninter-1\obj\Debug\net6.0\Uninter-1.genruntimeconfig.cache
+E:\projetos\C#\Uninter-1\obj\Debug\net6.0\ref\Uninter-1.dll
