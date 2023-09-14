@@ -1,0 +1,14 @@
+E:\projetos\SistemaMercado\uninter-pratica-2\bin\Debug\net6.0\uninter-pratica-2.exe
+E:\projetos\SistemaMercado\uninter-pratica-2\bin\Debug\net6.0\uninter-pratica-2.deps.json
+E:\projetos\SistemaMercado\uninter-pratica-2\bin\Debug\net6.0\uninter-pratica-2.runtimeconfig.json
+E:\projetos\SistemaMercado\uninter-pratica-2\bin\Debug\net6.0\uninter-pratica-2.dll
+E:\projetos\SistemaMercado\uninter-pratica-2\bin\Debug\net6.0\uninter-pratica-2.pdb
+E:\projetos\SistemaMercado\uninter-pratica-2\obj\Debug\net6.0\uninter-pratica-2.GeneratedMSBuildEditorConfig.editorconfig
+E:\projetos\SistemaMercado\uninter-pratica-2\obj\Debug\net6.0\uninter-pratica-2.AssemblyInfoInputs.cache
+E:\projetos\SistemaMercado\uninter-pratica-2\obj\Debug\net6.0\uninter-pratica-2.AssemblyInfo.cs
+E:\projetos\SistemaMercado\uninter-pratica-2\obj\Debug\net6.0\uninter-pratica-2.csproj.CoreCompileInputs.cache
+E:\projetos\SistemaMercado\uninter-pratica-2\obj\Debug\net6.0\uninter-pratica-2.dll
+E:\projetos\SistemaMercado\uninter-pratica-2\obj\Debug\net6.0\refint\uninter-pratica-2.dll
+E:\projetos\SistemaMercado\uninter-pratica-2\obj\Debug\net6.0\uninter-pratica-2.pdb
+E:\projetos\SistemaMercado\uninter-pratica-2\obj\Debug\net6.0\uninter-pratica-2.genruntimeconfig.cache
+E:\projetos\SistemaMercado\uninter-pratica-2\obj\Debug\net6.0\ref\uninter-pratica-2.dll
